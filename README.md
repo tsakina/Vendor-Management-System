@@ -20,8 +20,9 @@ And finally to run the project on a local host :-
 
 ** Postman or localhost can be used to test the project API's.
 
-** Run the tests.py file to check the functionality and reliability of the endpoints.
+** Run the tests.py file to check the functionality and reliability of the endpoints:-
 
+-- ./manage.py test
 
 Documentation on Vendor Management System API's:-
 
