@@ -25,6 +25,12 @@ And finally to run the project on a local host :-
 
 Documentation on Vendor Management System API's:-
 
+All API's are token-based authenticated and can be accessed by the following token:-
+
+In the headers pass:
+
+- Authorization: Token 690d667276613a5b05b29923a0cf56774a6d2491 
+
 Vendor Profile Management:
 
 A model to store vendor information including name, contact
