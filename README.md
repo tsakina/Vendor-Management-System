@@ -1,5 +1,7 @@
 # Vendor-Management-System
 
+This is a project in progess.
+
 This project is a Vendor Management System using Django and Django REST Framework. This system will handle vendor profiles, track purchase orders, and calculate vendor performance metrics.
 
 To install the packages run the following command in the terminal of the IDE is being used -
